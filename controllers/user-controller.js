@@ -4,6 +4,7 @@ const userController = {
   
     // Get all users
   getUsers(req, res) {
+    console.log('getUsers');
     User.find()
       .select('-__v')
       .then((dbUserData) => {
