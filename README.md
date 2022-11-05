@@ -2,9 +2,9 @@
 
 An API for a social network web application, where users can share their thoughts, react to friends' thoughts and create a friend list.
 
-### Github
+### Github <https://github.com/micha2791/Social-Network-API>
 
-### Walkthrough video
+### Walkthrough video <https://drive.google.com/file/d/1zw5vewhyvhHxTW4bDSdOZQ1-Kv9SYxaf/view>
 
 ## Description
 
@@ -25,14 +25,6 @@ An API for a social network web application, where users can share their thought
 - This application allows me to add friends and show many friends I have.
 - This application allows me to create and find reactions and thoughts.
 - I am able to delete reactions, thoughts and remove friends.
-
-## Screenshots
-
-![](assets/img/create-user.png)
-![](assets/img/find-all-user.png)
-![](assets/img/get-all-thoughts.png)
-![](assets/img/add-friend.png)
-![](assets/img/create-reactions.png)
 
 ## Technologies Use
 
